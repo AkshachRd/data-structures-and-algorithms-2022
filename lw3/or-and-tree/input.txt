@@ -1,0 +1,16 @@
+A a
+.B o
+..E l
+..F o
+...X l
+...Y l
+...Z l
+..G a
+...N l
+...O l
+.C l
+.D o
+..H l
+..K l
+..L l
+..M l

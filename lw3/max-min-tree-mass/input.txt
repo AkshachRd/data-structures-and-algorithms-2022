@@ -1,0 +1,5 @@
+10
+House 0
+.Roof 0
+..Part1 10
+..Part2 5

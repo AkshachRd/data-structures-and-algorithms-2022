@@ -1,0 +1,8 @@
+1 Elle 15
+2 Elle 15
+2 Mike 5
+2 Widow 10
+1 Anthony 1
+1 Paul 5
+2 Lisa 30
+1 Rick 4
